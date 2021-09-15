@@ -1,0 +1,3 @@
+把我们提供的库文件拷贝到您的Arduino安装目录下的Libraries文件夹
+
+Copy the library files provided by us to the libraries folder under your Arduino installation directory
